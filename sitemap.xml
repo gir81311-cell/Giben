@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Giben Gabrial",
+  "jobTitle": "Senior Project Engineer",
+  "url": "https://gir81311-cell.github.io/Giben0606/",
+  "image": "https://i.imgur.com/mVpGYT3.jpeg",
+  "sameAs": [
+    "https://ae.linkedin.com/in/giben-gabrial-473046110"
+  ]
+}
