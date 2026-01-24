@@ -2,10 +2,15 @@
   "@context": "https://schema.org/",
   "@type": "Person",
   "name": "Giben Gabrial",
-  "jobTitle": "Senior Project Engineer",
+  "jobTitle": "Associate Public Accountant & Finance Manager",
   "url": "https://gir81311-cell.github.io/Giben0606/",
   "image": "https://i.imgur.com/mVpGYT3.jpeg",
+  "description": "Financial leader with 21+ years of experience in the UAE, specializing in auditing, tax preparation, and financial advisory for the Oil & Gas and Construction sectors.",
   "sameAs": [
     "https://ae.linkedin.com/in/giben-gabrial-473046110"
-  ]
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Hi-Spectra Technical Contracting LLC"
+  }
 }
